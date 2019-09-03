@@ -5,3 +5,6 @@ Test Git QuickStart Demo
 dhange the first time
 
 add branch title
+
+changes made in simple branch:wq
+
