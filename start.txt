@@ -6,5 +6,5 @@ dhange the first time
 
 add branch title
 
-changes master made in simple branch:wq
+changes simple made in simple branch
 
