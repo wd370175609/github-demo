@@ -14,4 +14,4 @@ this is conflictsss in local" conflict
 
 commit latest change created in remote here wnat to have conflict here
 
-no conflict here!
+no create a conflict in local here!
