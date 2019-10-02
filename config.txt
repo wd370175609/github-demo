@@ -13,3 +13,5 @@ this is conflict in local" conflict
 
 
 commit by remote wnat to have conflict here
+
+no conflict here!
