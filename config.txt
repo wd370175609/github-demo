@@ -12,6 +12,6 @@ this is conflictsss in local" conflict
 
 
 
-commit by remote wnat to have conflict here
+commit latest change created in remote here wnat to have conflict here
 
 no conflict here!
